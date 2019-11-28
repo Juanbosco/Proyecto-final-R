@@ -25,8 +25,8 @@ library(rvest)
 library(magrittr)
 library(kableExtra)
 ```
-## Objetivo del proyecto
-Este proyecto se ha creado para la evaluación de la asignatura de Business Performance Analysis por el profesor Carlos J. Gil Bellosta. 
+## Objetivo y herramientas del proyecto
+Este proyecto se ha creado para la evaluación de la asignatura de Business Performance Analysis por el profesor Carlos J. Gil Bellosta. La herramienta que se ha utilizado para poder llevar a cabo este proyecto ha sido RStudio.
 
 ## Autor
 Juan Bosco Fontán García-Rodrigo
