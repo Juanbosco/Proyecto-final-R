@@ -1,5 +1,5 @@
 # README
-Este archivo Readme está creado para dar ciertas instrucciones acerca de los archivos de este repositorio y poder poner en funcionamiento el proyecto.
+Este archivo README está creado para dar ciertas instrucciones acerca de los archivos de este repositorio y poder poner en funcionamiento el proyecto.
 
 ## Contenido del proyecto
 Este proyecto contiene cuatro archivos; el archivo Readme `md` que se está leyendo, un archivo `.csv` que contiene datos necesarios para el funcionamiento del archivo `Rmd` y por último, un archivo `HTLM`para visualizar el proyecto fácilmente.
