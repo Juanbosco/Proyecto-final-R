@@ -1,8 +1,8 @@
 # README
-Este archivo Readme está creado para dar ciertas instrucciones en el y poder poner en funcionamiento el proyecto.
+Este archivo Readme está creado para dar ciertas instrucciones acerca de los archivos de este repositorio y poder poner en funcionamiento el proyecto.
 
-## Instalación de paquetes en RStudio
-Estos son los paquetes necesarios para el correcto funcionamiento del archivo `Rmd.`
+## Instalación de paquetes en RStudio:
+Estos son los paquetes que se han utilizado para la elaboración del archivo  `Rmd.`, y que serán necesarios para su correcto funcionamiento. Lo más seguro es que solo se tenga que instalar el paquete de *gapminder* de forma manual.
 ```
 install.packages('dplyr')
 install.packages('ggplot2')
@@ -11,9 +11,8 @@ install.packages('gapminder')
 install.packages('rvest')
 install.packages('magrittr')
 install.packages('kableExtra')
-install.packages('googledrive')
 ```
-## Librerías utilizadas
+## Librerías utilizadas:
 ```
 library(dplyr)
 library(ggplot2)
@@ -22,7 +21,4 @@ library(gapminder)
 library(rvest)
 library(magrittr)
 library(kableExtra)
-library(googledrive)
 ```
-## Lectura fichero`.csv`
-Este archivo está subido en GoogleDrive. Para la correcta lectura del fichero `.csv`será necesario dar permisos a la API Tidyverse para descargar el archivo desde GoogleDrive.
